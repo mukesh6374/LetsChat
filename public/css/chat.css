@@ -1,0 +1,101 @@
+#chatbody{
+	background-image: 	url("/images/1.jpg");
+}
+#indexchatbody{
+	background-image: 	url("/images/5.jpg");
+}
+.chat_container{
+	float: 				right;
+	width: 				79%;
+}
+#chatbox{
+	background-image: 	url("/images/2.jpeg");
+	height: 			388px;
+	width: 				auto;
+}
+#attach{
+	
+}
+#msgbox{
+	display:			block;
+	height: 			388px;
+	margin-top: 		0px;
+	overflow-y: 		scroll;
+}
+/*#chatbox{
+	color: 				white;
+}*/
+#message{
+	padding-left: 10px;
+}
+#msg_li_1 {
+	background-color: 	#6a5fd1;
+    border-radius: 		10px;
+    min-height: 		45px;
+    min-width: 			auto;
+    height: 			auto;
+    font-size: 			20px;
+    padding-top: 		5px;
+    padding-left: 		20px;
+    padding-right: 		5px;
+    display: 			block;
+    word-wrap: 			break-word;
+}
+#msg_li_2 {
+	background-color: 	#ca5fd1;
+    border-radius: 	  	10px;
+    min-height: 	  	45px;
+    min-width: 		  	auto;
+    height: 			auto;
+    font-size: 			20px;
+    padding-top: 		5px;
+    padding-left: 		20px;
+    padding-right: 		5px;
+    display: 			block;
+    word-wrap: 			break-word;
+}
+.msg_div_1{
+	width: 				auto !important;
+	max-width: 			35%;
+}
+.msg_div_2{
+	float: 				right !important;
+	width: 				auto !important;
+	max-width: 			35%;
+}
+
+.brand-logo{
+	padding-left: 10px;
+}
+.brand-logo{
+	left: 25px !important;
+	margin-top: 5px !important;
+	margin-left: 40px !important;
+	position: initial !important;
+}
+.brand-logo > img{
+	width: 55px;
+	height: 55px;
+}
+nav{
+	margin-bottom: -5px;
+	background-color: #5522ba;
+}
+#typing{
+	float: right !important;
+}
+#sent_time{
+	font-size: 11px;
+	margin-left: 15px;
+}
+.page-footer{
+	margin-top: 20px;
+	padding-top: 0px;
+	background-color: #5522ba;
+}
+#start_img{
+	height: 380px;
+}
+#logo_name{
+	margin-bottom: 10px;
+}
