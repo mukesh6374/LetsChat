@@ -1,0 +1,21 @@
+{
+  "name": "letschat",
+  "version": "1.0.0",
+  "description": "Normal Chatting app using socket programming , node.js , express.js (node framework) socket.io and firebase/mongodb/sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mukesh6374",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/cli": "^6.2.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "materialize-css": "^1.0.0-rc.2",
+    "push.js": "^1.0.8",
+    "request-ip": "^2.1.1",
+    "socket.io": "^2.1.1",
+    "web-push": "^3.3.3"
+  }
+}
